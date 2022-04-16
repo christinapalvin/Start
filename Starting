@@ -1,0 +1,7 @@
+const die = console.log('died');
+
+const putin = {
+  die,
+}
+
+putin.die();
